@@ -9,3 +9,4 @@ This project is designed to automatically update offsets used by external cheat 
 ## Downloading Offsets
 
 The `download_offsetjson` function in the project downloads the latest offsets from a specific URL and saves them locally on the user's machine.
+
