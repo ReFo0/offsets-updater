@@ -1,3 +1,6 @@
+![](https://img.shields.io/github/stars/refo0/farlight84-cheat)
+![](https://img.shields.io/github/forks/refo0/farlight84-cheat)
+
 # Auto Offsets Update for External Cheats
 
 This project is created to provide automatically updating offsets for external cheats.
