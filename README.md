@@ -1,5 +1,5 @@
-![](https://img.shields.io/github/stars/refo0/farlight84-cheat)
-![](https://img.shields.io/github/forks/refo0/farlight84-cheat)
+![](https://img.shields.io/github/stars/refo0/auto-offsets)
+![](https://img.shields.io/github/forks/refo0/auto-offsets)
 
 # Auto Offsets Update for External Cheats
 
