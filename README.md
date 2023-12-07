@@ -1,5 +1,5 @@
-![](https://img.shields.io/github/stars/refo0/auto-offsets)
-![](https://img.shields.io/github/forks/refo0/auto-offsets)
+![](https://img.shields.io/github/stars/refo0/offsets-updater)
+![](https://img.shields.io/github/forks/refo0/offsets-updater)
 
 # Auto Offsets Update for External Cheats
 
